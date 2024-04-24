@@ -1,5 +1,4 @@
 # Huffman-Algoritmos
-# Huffman-Algoritmos
 Reporte del Funcionamiento del Código de Compresión de Huffman 
 El código proporcionado implementa un programa de compresión y descompresión de texto utilizando el algoritmo de Huffman, operando a través de una interfaz gráfica de usuario (GUI) creada con tkinter.
 
